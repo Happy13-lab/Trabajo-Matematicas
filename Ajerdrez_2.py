@@ -1,6 +1,6 @@
 
 
-# Importing Modules
+# importar modulos
 import pygame
 
 # Initialising pygame module
@@ -15,7 +15,7 @@ medium_font = pygame.font.Font('freesansbold.ttf', 40)
 big_font = pygame.font.Font('freesansbold.ttf', 50)
 timer = pygame.time.Clock()
 fps = 60
-# game variables and images
+# variables del juego e imagenes
 white_pieces = ['rook', 'knight', 'bishop', 'king', 'queen', 'bishop', 'knight', 'rook',
 
                 'pawn', 'pawn', 'pawn', 'pawn', 'pawn', 'pawn', 'pawn', 'pawn']
